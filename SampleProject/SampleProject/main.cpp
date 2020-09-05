@@ -9,6 +9,10 @@
 #include <iostream>
 using namespace std;
 
+void foo1() {
+    cout<<"Inside foo1"<<endl;
+}
+
 void betterFunctionName() {
     cout<<"Inside foo"<<endl;
 }
