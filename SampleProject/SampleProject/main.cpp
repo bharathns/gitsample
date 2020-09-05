@@ -13,9 +13,14 @@ void foo1() {
     cout<<"Inside foo1"<<endl;
 }
 
+void mergeSample1() {
+    cout<<"Inside mergeSample1"<<endl;
+}
+
 void betterFunctionName() {
     cout<<"Inside foo"<<endl;
 }
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
