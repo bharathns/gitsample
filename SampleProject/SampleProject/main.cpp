@@ -7,14 +7,10 @@
 //
 
 #include <iostream>
-using namespace std;
-void betterName() {
-    cout << "calling"<<endl;
-}
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << "Hello, World!\n";
-    
+    std::cout << "Hello, World!\n";
+
     return 0;
 }
