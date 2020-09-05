@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-void foo() {
+void betterFunctionName() {
     cout<<"Inside foo"<<endl;
 }
 int main(int argc, const char * argv[]) {
