@@ -13,6 +13,10 @@ void foo1() {
     cout<<"Inside foo1"<<endl;
 }
 
+void mergeSample1() {
+    cout<<"Inside mergeSample1"<<endl;
+}
+
 void betterFunctionName() {
     cout<<"Inside foo"<<endl;
 }
